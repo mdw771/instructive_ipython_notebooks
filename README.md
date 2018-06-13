@@ -1,5 +1,5 @@
 # Instructive IPython Notebooks
-This repository will be progressively populated with IPython (or Jupyter) Notebooks (IPNBs) that I made to demonstrate theories and practices in digital image processing, Python numerical computation, and Tensorflow usage. Check out the individual notebooks for more details. 
+This repository will be progressively populated with IPython (or Jupyter) Notebooks (IPNBs) that I made to demonstrate theories and practices in digital image processing, Fourier optics, Python numerical computation, and Tensorflow usage. Check out the individual notebooks for more details. 
 
 # How to view and run notebooks
 Github now supports viewing IPNBs on the web interface, but you'll need to download them to your local drive in order to execute the scripts. As the first step, `git clone` this repo onto your computer hard disk.
